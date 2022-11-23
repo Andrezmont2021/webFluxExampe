@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.webfluxExample.pets.PetAPIServiceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-11-23T18:05:57" hostname="EQUIPO-100-059" time="0.955">
+  <properties/>
+  <testcase name="pets_list_not_empty()" classname="com.example.webfluxExample.pets.PetAPIServiceTest" time="0.938"/>
+  <testcase name="pets_list_empty()" classname="com.example.webfluxExample.pets.PetAPIServiceTest" time="0.003"/>
+  <testcase name="register_pet_with_a_not_existing_owner()" classname="com.example.webfluxExample.pets.PetAPIServiceTest" time="0.01"/>
+  <system-out><![CDATA[13:05:58.627 [Test worker] DEBUG reactor.util.Loggers - Using Slf4j logging framework
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
